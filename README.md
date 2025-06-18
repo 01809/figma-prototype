@@ -1,0 +1,1 @@
+If it is not possible to open, these are prototypes of layouts designed in Figma, which will probably become a complete project later on. These layouts are based on the centering and pigmentation of elements.
